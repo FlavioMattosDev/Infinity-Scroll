@@ -4,7 +4,7 @@ O site desenvolvido com Javascript permite que imagens provenientes de uma API s
 ## 🚀 Demonstração
 
 ![image](assets/final-project.png)
-[Clique aqui](link-aqui) para acessar o resultado final do projeto.
+[Clique aqui](https://flaviomattosdev.github.io/Infinity-Scroll/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
